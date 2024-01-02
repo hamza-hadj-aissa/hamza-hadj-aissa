@@ -1,5 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hamza HADJ AISSA</h1>
-<h3 align="center">A passionate computer science student</h3>
+<h1 align="center">Hamza HADJ AISSA</h1>
+<h3 align="center">Tech Alchemist: Crafting Innovation in Softwares, Networks, and AI</h3>
+<p align="center">
+    I find joy in unraveling the intricate dance of technology. From weaving webs of connectivity to sculpting embedded wonders, my passion extends to the realms of web and mobile development, where I craft applications that breathe life into innovation. Enthralled by the enchanting dance of AI, I'm on a mission to infuse brilliance into every line of code, painting a canvas where technology and creativity converge to shape a brighter future
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
