@@ -47,18 +47,4 @@ I find joy in unraveling the intricate dance of technology. From weaving webs of
 <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="25" /></a>  
 <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="25" /></a>  
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="center" align="center" >
-
-<img src="https://github-readme-stats.vercel.app/api?username=hamza-hadj-aissa&show_icons=true&count_private=true&hide_border=true&theme=onedark" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-hadj-aissa&hide_border=true&layout=compact&theme=onedark" align="left" style="width: 100%" />
-
-</td></tr></table>  
+</div> 
