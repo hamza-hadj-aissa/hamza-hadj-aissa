@@ -1,7 +1,6 @@
 ### About  
+I started my career as a Software Engineer, building and deploying web applications, designing backend APIs, and working with Docker and Linux-based environments. Over time, I became increasingly interested in data, which led me to transition into Data Science and Machine Learning.
 
-I am a software engineer with experience in full-stack development and deployment of production applications. My work has involved building web and mobile applications, developing backend APIs, and handling deployment and runtime environments using Docker and Linux-based systems.
+Today, I enjoy working on machine learning projects, especially time series forecasting and end-to-end data pipelines. I like combining software engineering practices with data and AI to build practical, reliable solutions.
 
-Alongside application development, I have worked on projects involving data processing and system-level concerns, including storage management, monitoring, and experimentation with AI-driven approaches in academic and project contexts. These experiences have shaped my interest in data engineering and applied AI from a practical, system-oriented perspective.
-
-I am currently a Data Engineering student at [Université Paris-Saclay](https://www.universite-paris-saclay.fr) and am looking to further develop my skills through hands-on work in data engineering or AI-related roles.
+I'm pursuing a Master's degree in Data Engineering at [Université Paris-Saclay](https://www.universite-paris-saclay.fr) and always looking to learn more about machine learning, data engineering, and MLOps.
